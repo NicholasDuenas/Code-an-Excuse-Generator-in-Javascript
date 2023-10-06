@@ -8,7 +8,11 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
   document.querySelector('#btn').addEventListener('click', () => {
+ codespace-jubilant-space-capybara-r4g5xvjw9ppv3x65g
     document.querySelector("excuse").innerHTML = generateExcuse();
+
+    document.querySelector("excuse").innerHTML = generateExcuse();
+ main
   });
 
   let randomnumber = Math.random() * 10;
