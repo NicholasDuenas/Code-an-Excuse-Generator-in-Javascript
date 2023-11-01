@@ -41,11 +41,3 @@ let generateExcuse = () => {
     " " +
     where[whereIndx]
   );
-
-  document.querySelector('#btn').addEventListener('click', () => {
- codespace-jubilant-space-capybara-r4g5xvjw9ppv3x65g
-    document.querySelector("excuse").innerHTML = generateExcuse();
-
-    document.querySelector("excuse").innerHTML = generateExcuse();
- main
-  });
