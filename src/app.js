@@ -7,7 +7,7 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
- codespace-jubilant-space-capybara-r4g5xvjw9ppv3x65g
+//codespace-jubilant-space-capybara-r4g5xvjw9ppv3x65g
   document.querySelector("#btn").addEventListener("click", () => {
     document.querySelector("#excuse").innerHTML = generateExcuse();
   });
@@ -40,4 +40,4 @@ let generateExcuse = () => {
     posession[posIndx] +
     " " +
     where[whereIndx]
-  );
+  )};
